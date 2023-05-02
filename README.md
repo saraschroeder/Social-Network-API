@@ -27,7 +27,7 @@ npm i
 
 ## Usage
 
-[Walkthrough]()
+[Walkthrough](https://drive.google.com/file/d/1fEw4IbYy7ZJ497ymqmey_Gsrv5PcTDYr/view)
 
 ![alt text](./images/Screenshot1.png)
 ![alt text](./images/Screenshot2.png)
